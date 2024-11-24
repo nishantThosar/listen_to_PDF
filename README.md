@@ -1,13 +1,14 @@
 
 **Automatically:**
 1. Install Python 3.x if not already installed.
-2. Execute the program:
+2. Open a terminal in the program's folder.
+3. Execute the program:
    python3 pdf_to_speech_ver_2.3.py
 
    **The program will automatically resolve its dependencies**
    
 If the dependencies are not resolved automatically then go for the manual way.
-Manually:
+**Manually:**
 1. Install Python 3.x if not already installed.
 2. Open a terminal in the program's folder.
 3. Run the following command to install dependencies:

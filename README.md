@@ -1,3 +1,4 @@
+**This program is tested on Windows 10 OS**
 
 **Automatically:**
 1. Install Python 3.x if not already installed.

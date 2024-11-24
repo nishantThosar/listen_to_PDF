@@ -8,6 +8,7 @@
    **The program will automatically resolve its dependencies**
    
 If the dependencies are not resolved automatically then go for the manual way.
+
 **Manually:**
 1. Install Python 3.x if not already installed.
 2. Open a terminal in the program's folder.

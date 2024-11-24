@@ -22,5 +22,7 @@ This program is tested for 29-page PDF documents and is meant for PDF document u
 Also, this program will take time if more pages are there (It's like the greater no of pages in PDF greater the conversion time) though it depends on your system also.
 
 Thankyou
+
 Author: Nishant Thosar
+
 Date: 24 Nov 2023
